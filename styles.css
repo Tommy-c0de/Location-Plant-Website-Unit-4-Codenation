@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+}
+
+.font {
+    font-family: fredoka one;
+}
+
+.heading {
+    background-color: #f5cbe2;
+    padding: 50px;
+    text-align: center;
+    font-size: 23px;
+    color: #5e5a78;
+}
+
+.row {
+    text-align: center;
+    background-color: #b8d4ba;
+}
+
+.info {
+    font-size: 11px;
+    padding: 30px;
+    color: #4d5c50;
+    text-align:center;
+}
+
+img {
+    height:100px;
+    width:100px;
+    border-radius:100%;
+
+    background-color: #c5edec;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+
+}
